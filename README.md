@@ -7,4 +7,5 @@ Created custom dialog with the help of Dialog class and to list the information
 ListView used and set the Adapter to listView. 
 Made that adapter custom by extending BaseAdapter class. 
 This adapter is fetching information from Person class and listing the information.
-EADME, Screenshots of output in geneymotion, Apk file and Source Code is uploaded in git repository
+
+README, Screenshots of output in geneymotion, Apk file and Source Code is uploaded in git repository
